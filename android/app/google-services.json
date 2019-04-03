@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "192908408923",
+    "firebase_url": "https://yaflyafl.firebaseio.com",
+    "project_id": "yaflyafl",
+    "storage_bucket": "yaflyafl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192908408923:android:0049460494eb1d08",
+        "android_client_info": {
+          "package_name": "com.buzzcat.yafl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192908408923-p6g6bkqht1rdv72ru1s312jgfs81ha1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buzzcat.yafl",
+            "certificate_hash": "7e4f647362eab7a25328180c0c2216cda551fa92"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChrYw6Z63DuT0bb51iDnx2xEb1SUqfITk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192908408923-lk07r4nj10n5128udoc7g1ceamsbrav3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

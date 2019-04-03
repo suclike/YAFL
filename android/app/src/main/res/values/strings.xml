@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YAFL</string>
+    <!--CHANGEME-->
+    <string name="facebook_app_id">330318210955606</string>
+    <string name="fb_login_protocol_scheme">fb330318210955606</string>
+</resources>

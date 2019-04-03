@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<!-- CHANGEME -->
+<dict>
+	<key>CLIENT_ID</key>
+	<string>192908408923-7ufbhgr8pd36mdlqfmba137cetbl5osc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.192908408923-7ufbhgr8pd36mdlqfmba137cetbl5osc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>192908408923-p6g6bkqht1rdv72ru1s312jgfs81ha1c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBOF3gnC0D4VrxIfOp1g4dJRw_BWg_3B7w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>192908408923</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.buzzcat.yafl</string>
+	<key>PROJECT_ID</key>
+	<string>yaflyafl</string>
+	<key>STORAGE_BUCKET</key>
+	<string>yaflyafl.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:192908408923:ios:0049460494eb1d08</string>
+	<key>DATABASE_URL</key>
+	<string>https://yaflyafl.firebaseio.com</string>
+</dict>
+</plist>
