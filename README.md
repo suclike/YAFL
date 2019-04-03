@@ -14,5 +14,7 @@ If you do a "Find in Path" in Android Studio on the project and look for "CHANGE
 You should read through the following and make sure you fill in the correct details for your own firebase (https://console.firebase.google.com/):
 
 https://pub.dartlang.org/packages/firebase_auth
+
 https://pub.dartlang.org/packages/google_sign_in
+
 https://pub.dartlang.org/packages/flutter_facebook_login (https://developers.facebook.com/apps/)
