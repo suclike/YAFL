@@ -1,6 +1,7 @@
 # yafl
 
 Yet Another Flutter Login starterkit
+
 https://gitlab.com/buzzcat/yafl
 
 This project is a starting point for a Flutter application with working Email/Password, Facebook and Google login (straightforward to add more options such as phone).
